@@ -42,8 +42,9 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
               with:
-                  deploy_key: ${{ secrets.PERSONAL_TOKEN }}
+                  personal_token: ${{ secrets.PERSONAL_TOKEN }}
                   external_repository: txia-o/txia-o.github.io
                   publish_branch: master
                   publish_dir: ./public
+                  destination_dir: ./public/docs
                   full_commit_message: ${{ github.event.head_commit.message }}
