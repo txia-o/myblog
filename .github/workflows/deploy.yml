@@ -45,6 +45,6 @@ jobs:
                   personal_token: ${{ secrets.PERSONAL_TOKEN }}
                   external_repository: txia-o/txia-o.github.io
                   publish_branch: master
-                  publish_dir: ./public
-                  destination_dir: ./public/docs
+                  publish_dir: ./
+                  destination_dir: ./docs
                   full_commit_message: ${{ github.event.head_commit.message }}
