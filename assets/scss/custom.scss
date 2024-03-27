@@ -1,7 +1,7 @@
 /*
     You can add your own custom styles here.
 */
-# render-image.html
+// render-image.html
 {{- if and (ne .Page.Kind "section") (.Page.Section ) }}
     <!-- Generate a unique id for each image -->
     {{- $random := (substr (md5 .Destination) 0 5) }}
@@ -16,7 +16,7 @@
         alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
 {{- end }}
 
-# extend_footer.html
+// extend_footer.html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S+Yti0U7QtuZvQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script>
