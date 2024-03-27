@@ -1,7 +1,7 @@
 ---
 title: 【AI笔记】一、本地聊天大模型支持搜索引擎
 description: 无
-slug: hello-world
+slug: ai-note-1
 date: 2024-03-26 00:00:00+0000
 categories:
     - AI笔记
