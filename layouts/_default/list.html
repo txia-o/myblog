@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ if not .Params.hidden }}<!-- 隐藏 -->
     <header>
         <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}
@@ -78,6 +79,7 @@
     {{- partial "pagination.html" . -}}
 
     {{ partialCached "footer/footer" . }}
+{{- end }}<!-- 隐藏 -->
 {{ end }}
 
 {{ define "right-sidebar" }}
