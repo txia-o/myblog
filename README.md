@@ -17,13 +17,14 @@
 #### Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=python&logoColor=green)
 ![Dify](https://img.shields.io/badge/-Dify-000000?style=flat&logo=python&logoColor=blue) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![GaussDB](https://img.shields.io/badge/-GaussDB-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![bash](https://img.shields.io/badge/-bash-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAjklEQVR4nO3VPQqEMBCG4fcSLnok2VsnhaBWa2Gv3mNsYiNkCncSRPPBNJPiIUN+oORt+QIbIMa1Aq0GrwnQoxYNlsQVzXth60iBbz1qB4zAJzfch970By5X4Ar4hf4MNLlgwk6nsDbwdLg6jbrOBQ+Rw+WVp9FbwF3kOmmws4AtIgW+zX/sE6JOg0uelx3XxAOblnvqngAAAABJRU5ErkJggg==)
 
 ![Txia-o's github stats](https://github-readme-stats.vercel.app/api?username=txia-o&show_icons=true&line_height=30)
 
